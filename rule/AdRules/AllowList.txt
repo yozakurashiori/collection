@@ -86,10 +86,8 @@
 #饭太硬视频源
 @@||www.xn--sss604efuw.com^
 
-#腾讯软件更新下载
-@@||114.110.97.97^
-
 #discord链接跳转
+@@||discordapp.onelink.me^
 @@||click.discord.com^
 
 #吾爱破解
